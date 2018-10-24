@@ -1,2 +1,2 @@
 # Practice-python
-Personal repository to practice python
+This is my personal repository to practice python 
