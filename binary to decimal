@@ -1,4 +1,5 @@
 #binary to decimal
+#this is a different branch
 def binary_to_decimal_conv(binary_string):
 	res = 0
 	binary_l = list(binary_string)
